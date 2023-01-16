@@ -62,3 +62,4 @@ def download_pypi():
 if __name__ == '__main__':
     file_name = sys.argv[1]
     download_pypi()
+    print('Download success!')
