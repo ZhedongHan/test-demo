@@ -64,3 +64,4 @@ if __name__ == '__main__':
     #download_pypi()
     print('Download success!')
     print('dev')
+    print('v1.0.3')
