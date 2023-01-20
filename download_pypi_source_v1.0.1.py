@@ -60,6 +60,6 @@ def download_pypi():
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    file_name = sys.argv[1]
-    download_pypi()
+    #file_name = sys.argv[1]
+    #download_pypi()
     print('Download success!')
